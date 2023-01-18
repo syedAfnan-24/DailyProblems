@@ -1,5 +1,6 @@
 package leetCode.Interview75.IsSubsequence;
 
+//Proble #392. day 2
 public class Solution {
 	public boolean isSubsequence(String s,String t) {
 		if(s.length()==0) {
