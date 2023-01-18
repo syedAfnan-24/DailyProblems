@@ -2,6 +2,7 @@ package leetCode.Interview75.IsomorphicString;
 
 import java.util.HashMap;
 
+//Problem #205. Day 2
 public class Solution {
 	public boolean isIsomorphic(String s,String t) {
 		if(s.length()!=t.length()) {
