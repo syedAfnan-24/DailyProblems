@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+
+//problem #350. Day3
 public class Solution {
 	public int[] intersect(int[] nums1, int[] nums2) {
-List<Integer> list = new ArrayList<Integer>();
+		List<Integer> list = new ArrayList<Integer>();
         
         HashMap<Integer,Integer> map1 = new HashMap<>();
         HashMap<Integer,Integer> map2 = new HashMap<>();
